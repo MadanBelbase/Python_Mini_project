@@ -6,7 +6,7 @@ menu = {
   'Burger':450,
 }
 print("wellcome to our hotel")
-print(" Tea:50 \n Coffee:14 \n Pizza:450 \n MoMO:120 \n Burger:450")
+print(" Tea:50 \n Coffee:145 \n Pizza:450 \n MoMO:120 \n Burger:450")
 total=0
 a=input("Enter name of item you want to order\n")
 if a in menu:
